@@ -1,2 +1,2 @@
 # portfolio-project
-Porfolio
+Portfolio
